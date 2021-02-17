@@ -1,0 +1,14 @@
+.instruction {
+	background-color: #fdfeff;
+	padding: 15px;
+	border-radius: 5px;
+	margin-bottom: 5px;
+	color: #37382f;
+	display: flex;
+	align-items: center;
+}
+
+.instruction-icon {
+	margin-right: 10px;
+	color: #f6412e;
+}
